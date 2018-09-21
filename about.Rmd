@@ -2,4 +2,9 @@
 title: "About Me"
 ---
 
-Why I am awesome. 
+- __Name:__ Lister Ariri Mirarwa
+- __Ocupation:__ Buddind researcher, Student in programming, R pro, "The next top writer"
+- __Hobbies:__ Programming, Writing, Painting.
+
+
+Well, i am awesome!
