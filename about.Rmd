@@ -3,8 +3,8 @@ title: "About Me"
 ---
 
 - __Name:__ Lister Ariri Mirarwa
-- __Ocupation:__ Buddind researcher, Student in programming, R pro, "The next top writer"
+- __Ocupation:__ Budding researcher, Student in programming, R pro, "The next top writer"
 - __Hobbies:__ Programming, Writing, Painting.
 
 
-Well, i am awesome!
+Well, i am awesome, we both know it!
