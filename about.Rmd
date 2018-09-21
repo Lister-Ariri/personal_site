@@ -7,4 +7,5 @@ title: "About Me"
 - __Hobbies:__ Programming, Writing, Painting.
 
 
-Well, i am awesome, we both know it!
+Well, i am awesome, we both know it! This might be just a picture i pulled off the internet. Or is it even a picture to begin with.
+![](codegirls.png)
